@@ -1,4 +1,4 @@
-# Project 1 - HTML ![HTML Logo](./HTML%20logo.png) and CSS ![CSS logo](./CSS%20logo.png)
+# Project 2 - HTML ![HTML Logo](./HTML%20logo.png) and CSS ![CSS logo](./CSS%20logo.png)
 
 > ![Project 2](https://img.shields.io/badge/Project-2-brightgreen)
 >
